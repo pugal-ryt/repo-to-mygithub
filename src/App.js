@@ -7,7 +7,7 @@ import './sample.js';
 function App() {
 
   return (
-    <div className="App">
+    <div className="body">
      <Header />
      <Content />
      <Footer />
